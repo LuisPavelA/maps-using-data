@@ -1,6 +1,9 @@
 # Maps with Data 
-### In this project I created maps with some locations data using the following:
 
+### In this project I created maps with some locations data using the following:
+- The data was taken from Kaggle:
+  - [Earthquake Data](https://www.kaggle.com/datasets/usgs/earthquake-database)
+  - [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
 - Geopandas
 - Numpy
 - The code was also run in a Jupyter notebook in the cloud using Kaggle
