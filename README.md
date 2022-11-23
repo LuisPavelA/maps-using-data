@@ -12,9 +12,9 @@
 
 # Results
   
-- Index:
-  - [Earthquakes](https://www.kaggle.com/datasets/usgs/earthquake-database)
-  - [Volcanooes]()
+### Index:
+  - [Earthquakes](https://github.com/LuisPavelA/maps-using-data/blob/main/README.md#earthquakes)
+  - [Volcanooes](https://github.com/LuisPavelA/maps-using-data/blob/main/README.md#volcanoes)
 
 ## Volcanoes
 ### This is a map of all of the volcanoes around the world
