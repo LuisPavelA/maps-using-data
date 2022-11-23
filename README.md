@@ -8,7 +8,14 @@
 - Numpy
 - The code was also run in a Jupyter notebook in the cloud using Kaggle
 
+
+
 # Results
+  
+- Index:
+  - [Earthquakes](https://www.kaggle.com/datasets/usgs/earthquake-database)
+  - [Volcanooes]()
+
 ## Volcanoes
 ### This is a map of all of the volcanoes around the world
 
